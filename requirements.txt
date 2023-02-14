@@ -1,0 +1,11 @@
+tkinter
+opencv-python
+pillow
+time
+numpy
+torch
+os
+imutils
+easyocr
+python-csv 
+db-sqlite3
